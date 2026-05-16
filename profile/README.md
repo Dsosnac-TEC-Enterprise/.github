@@ -1,8 +1,11 @@
-# Dsosnac TEC Enterprise ⚙️
+<h1 align="center">
+  <img src="link-to-your-animated-text.gif" alt="Dsosnac TEC Enterprise" width="600">
+</h1>
+
 
 **Forging the Bleeding Edge of Network Infrastructure & Secure Systems**
 
-Welcome to **Dsosnac TEC Enterprise**. We are a forward-thinking software engineering firm specializing in resilient architectures, next-generation cybersecurity frameworks, and advanced operational tools. We don't just adapt to the digital landscape; we architect it. 
+Welcome to **Dsosnac TEC Enterprise**. We are a forward-thinking software engineering firm specializing in resilient architectures, next-generation cybersecurity frameworks, and advanced cyber operational tools. We don't just adapt to the digital landscape; we architect it. 
 
 ### 🚀 Our Core Focus
 
