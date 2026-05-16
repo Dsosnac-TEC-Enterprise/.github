@@ -1,7 +1,6 @@
 <h1 align="center">
-  <img src=""
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=35&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=Dsosnac+TEC+Enterprise;Network+Infrastructure;Advanced+Cybersecurity" alt="Dsosnac TEC Enterprise">
 </h1>
-
 
 
 **Forging the Bleeding Edge of Network Infrastructure & Secure Systems**
