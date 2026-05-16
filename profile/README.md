@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://textanim.com/?text=Dsosnac+TEC+Enterprise+&font=Lemon-Regular&size=65&bg=%23ff0000&outlineColor=%23000000&outlineOpacity=0.5&outlineSize=0&direction=3&speed=50&pattern=bg341&shadow=1">
+  <img src=""
 </h1>
 
 
