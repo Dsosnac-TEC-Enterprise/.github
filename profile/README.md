@@ -2,7 +2,7 @@
 
 **Forging the Bleeding Edge of Network Infrastructure & Secure Systems**
 
-Welcome to **Dsosnac TEC Enterprise**. We are a forward-thinking software engineering firm specializing in resilient architectures, next-generation cybersecurity frameworks, and advanced operational tools. We don't just adapt to the digital landscape; we architect it. 💪🏾
+Welcome to **Dsosnac TEC Enterprise**. We are a forward-thinking software engineering firm specializing in resilient architectures, next-generation cybersecurity frameworks, and advanced operational tools. We don't just adapt to the digital landscape; we architect it. 
 
 ### 🚀 Our Core Focus
 
@@ -38,4 +38,4 @@ Whether you are looking to integrate robust security frameworks or discuss advan
 * **Lead Engineer:** David Sosnac 
 * **Direct Comms:** [sosnacdavid@gmail.com](mailto:sosnacdavid@gmail.com)
 
-> *"Engineering the shadows, powering the grid.*
+> *"Engineering the shadows, powering the next-generation Dsosnac-TEC-Enterprise*
