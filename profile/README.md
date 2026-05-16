@@ -10,7 +10,7 @@ Welcome to **Dsosnac TEC Enterprise**. We are a forward-thinking software engine
 ### 🚀 Our Core Focus
 
 * 🛡️ **Advanced Cybersecurity:** Developing robust, pre-built defense software and threat mitigation frameworks like Aurum-9.
-* 🌐 **Next-Gen Network Infrastructure:** Architecting scalable, secure, and decentralized network environments.
+* 🌐 **Next-Gen Network Infrastructure:** Architecting scalable, secure, and decentralized network environments like ComX-eTranet.
 * 📱 **Agile & Tactical Deployments:** Leveraging dynamic environments and mobile computing for rapid development and server management from anywhere.
 * 🧠 **Strategic Intelligence Tech:** Building systems capable of complex data processing, passive monitoring, and advanced signal logistics.
 
