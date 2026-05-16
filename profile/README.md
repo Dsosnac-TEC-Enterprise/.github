@@ -27,7 +27,7 @@ Our engineering operations utilize a versatile and powerful stack to ensure seam
 
 * 🔒 **[Aurum-9](#)** - *Our flagship, next-generation cybersecurity framework.*
 * 🌐 **[Aurum-9 Web Interface](#)** - *The frontend UI and advertising hub for the Aurum-9 architecture.*
-* 📡 **[Cyb3r-Grid](#)** - *The district solar power grid the 'the sovereign central hub' by Dsosnac-TEC-Enterprise."
+* 📡 **[Cyb3r-Grid](#)** - *The district solar power grid the 'the sovereign central hub' by Dsosnac-TEC-Enterprise."*
 
 ---
 
@@ -38,4 +38,4 @@ Whether you are looking to integrate robust security frameworks or discuss advan
 * **Lead Engineer:** David Sosnac 
 * **Direct Comms:** [sosnacdavid@gmail.com](mailto:sosnacdavid@gmail.com)
 
-> *"Engineering the shadows, powering the grid.
+> *"Engineering the shadows, powering the grid.*
