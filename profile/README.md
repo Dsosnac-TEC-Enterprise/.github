@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=35&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=Dsosnac+TEC+Enterprise;Network+Infrastructure;Advanced+Cybersecurity" alt="Dsosnac TEC Enterprise">
+  <img src="https://github.com/Dsosnac-TEC-Enterprise/.github/blob/97489a2a8631407d30a814955b70ddda8d1215e7/profile/textanim.gif">
 </h1>
 
 
