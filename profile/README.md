@@ -42,4 +42,4 @@ Whether you are looking to integrate robust security frameworks or discuss advan
 * **Lead Engineer:** David Sosnac 
 * **Direct Comms:** [sosnacdavid@gmail.com](mailto:sosnacdavid@gmail.com)
 
-> *"Engineering the shadows, powering the next-generation Dsosnac-TEC-Enterprise*
+> *"Engineering the shadows, powering the next-generation of cyber sovereignty"*
