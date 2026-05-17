@@ -31,6 +31,7 @@ Our engineering operations utilize a versatile and powerful stack to ensure seam
 * 🔒 **[Aurum-9](#)** - *Our flagship, next-generation cybersecurity framework.*
 * 🌐 **[Aurum-9 Web Interface](#)** - *The frontend UI and advertising hub for the Aurum-9 architecture.*
 * 📡 **[Cyb3r-Grid](#)** - *The district solar power grid 'the sovereign central hub'.*
+* 🏗 **[ComX-eTranet](#) - * A modern, Zero-Trust IT administration platform prioritizing the CIA Triad (Confidentiality, Integrity, Availability) for hybrid infrastructure.*
 
 ---
 
