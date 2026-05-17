@@ -30,7 +30,7 @@ Our engineering operations utilize a versatile and powerful stack to ensure seam
 
 * 🔒 **[Aurum-9](#)** - *Our flagship, next-generation cybersecurity framework.*
 * 🌐 **[Aurum-9 Web Interface](#)** - *The frontend UI and advertising hub for the Aurum-9 architecture.*
-* 📡 **[Cyb3r-Grid](#)** - *The district solar power grid the 'the sovereign central hub'.*
+* 📡 **[Cyb3r-Grid](#)** - *The district solar power grid 'the sovereign central hub'.*
 
 ---
 
