@@ -22,7 +22,7 @@ Our engineering operations utilize a versatile and powerful stack to ensure seam
 
 * **Core Logic & Processing:** Python
 * **Server & Architecture:** Node.js
-* **Deployment Environments:** Cross-platform local servers, Termux, Git
+* **Deployment Environments:** Cross-platform local servers, Linux, Termux, Git
 
 ---
 
